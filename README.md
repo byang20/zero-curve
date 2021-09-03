@@ -1,6 +1,6 @@
 # zero-curve
 
-The functions in this file relate to constructing the Treasury zero curve and analyzing yield curve dynamics. 
+The functions in this file relate to constructing the Treasury zero curve and analyzing yield curve dynamics. The constructed curve can be found in curve.png.
 
 The zeroCurve() function constructs Treasury zero curve based off bond prices. The function takes data from https://www.wsj.com/market-data/bonds/treasuries. 
 
